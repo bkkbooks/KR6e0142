@@ -1,0 +1,623 @@
+canonical_identifier: bkk:krp/KR6e0142/v1
+canonical_location: https://kanripo.org/bkk/KR6e0142/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 賢首五教儀
+  identifiers:
+    alt_id:
+    - X58n1024
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n1024.xml
+    old_id: X58n1024
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0142_000.yaml, hash: 'sha256:47f4f4fd2d1508bfa414685fe42a895a6c5d1628f5ff1f7396fb45f96397d71b'}
+  - {seq: 1, filename: KR6e0142_001.yaml, hash: 'sha256:2d7ba1d62c251115778164eb96f45886ee9d857823800e04ce38ce28e19eb413'}
+  - {seq: 2, filename: KR6e0142_002.yaml, hash: 'sha256:3a9e88cbb6c9e97497aada507aa8ceed040ce20510cb41243ac6eedc6121e071'}
+  - {seq: 3, filename: KR6e0142_003.yaml, hash: 'sha256:430757e3744a0745fcaf98711b7398e2c900c93df3804703e7f428424b7a23bc'}
+  - {seq: 4, filename: KR6e0142_004.yaml, hash: 'sha256:bba2c7045d2e86f64946ce795b239ea77a54443126618e4396e0829682d3f830'}
+  - {seq: 5, filename: KR6e0142_005.yaml, hash: 'sha256:e9bc2273d854d88e2515f92269e82a72ba2b81b07fa9841da8fb03fb2a18aec2'}
+  - {seq: 6, filename: KR6e0142_006.yaml, hash: 'sha256:0a50016808cd982f872670000f3a78cbed5bb29e46bcb8ecdc115a8e0e500753'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0142_000.markers.yaml, hash: 'sha256:baf1ff863bf59270ca42f45e5ebad7affb6dc135079d70fcb2ae9227dd1ae0b0'}
+  - {seq: 1, role: markers, filename: assets/KR6e0142_001.markers.yaml, hash: 'sha256:a72d19e4c4969edb43ecb8d512fc7405955d66fe92b596fea94215ea459fa3ca'}
+  - {seq: 2, role: markers, filename: assets/KR6e0142_002.markers.yaml, hash: 'sha256:5126f8deb647fb90f87c0d74e2fed51c4662722c50b2a6f103cd003c6311d230'}
+  - {seq: 3, role: markers, filename: assets/KR6e0142_003.markers.yaml, hash: 'sha256:36cdda86c96839de2b4972ff87c0cd1f5b24140770c0e9cbbee177a25be5aea7'}
+  - {seq: 4, role: markers, filename: assets/KR6e0142_004.markers.yaml, hash: 'sha256:21b2e70ca6dccf3a0c452b332c683a38b0da4be13534d20e4129836718df1dd8'}
+  - {seq: 5, role: markers, filename: assets/KR6e0142_005.markers.yaml, hash: 'sha256:d4d5995e3caac561b1c7aa823fec30fa2c3adbbaf4a0f3201529085858b4864a'}
+  - {seq: 6, role: markers, filename: assets/KR6e0142_006.markers.yaml, hash: 'sha256:1c526230b1bbd6e0211add803e42cd5dea72a42a6437d848428cd1735fd7d993'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6e0142_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1024-A 引
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6e0142_X_000-mulu-2
+    span:
+    - front
+    - 157
+    - 157
+  label: No. 1024-B 賢首五教儀序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6e0142_X_000-mulu-3
+    span:
+    - front
+    - 1065
+    - 1065
+  label: No. 1024-C 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6e0142_X_000-mulu-4
+    span:
+    - front
+    - 2063
+    - 2063
+  label: No. 1024-D
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6e0142_X_000-mulu-5
+    span:
+    - front
+    - 2063
+    - 2063
+  label: 賢首時儀教觀圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6e0142_X_000-mulu-6
+    span:
+    - front
+    - 2070
+    - 2070
+  label: 法界觀境普融無盡圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6e0142_X_000-mulu-7
+    span:
+    - front
+    - 2196
+    - 2196
+  label: 賢首五教儀條箇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0142_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 13268
+  label: 賢首五教儀卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0142_X_001-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 總釋此儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0142_X_001-mulu-2
+    span:
+    - body
+    - 37
+    - 37
+  label: 三時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0142_X_001-mulu-3
+    span:
+    - body
+    - 45
+    - 45
+  label: 別三時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0142_X_001-mulu-4
+    span:
+    - body
+    - 9616
+    - 9616
+  label: 通三時
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0142_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 12403
+  label: 賢首五教儀卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0142_X_002-mulu-1
+    span:
+    - body
+    - 6482
+    - 6482
+  label: 十儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0142_X_002-mulu-2
+    span:
+    - body
+    - 6546
+    - 6546
+  label: 本末差別
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0142_X_002-mulu-3
+    span:
+    - body
+    - 6693
+    - 6693
+  label: 依本起末
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0142_X_002-mulu-4
+    span:
+    - body
+    - 6797
+    - 6797
+  label: 攝末歸本
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0142_X_002-mulu-5
+    span:
+    - body
+    - 6938
+    - 6938
+  label: 本末無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0142_X_002-mulu-6
+    span:
+    - body
+    - 7041
+    - 7041
+  label: 隨機不定
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0142_X_002-mulu-7
+    span:
+    - body
+    - 7140
+    - 7140
+  label: 顯密同時
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0142_X_002-mulu-8
+    span:
+    - body
+    - 7180
+    - 7180
+  label: 一時頓演
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0142_X_002-mulu-9
+    span:
+    - body
+    - 7222
+    - 7222
+  label: 寂寞無言
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0142_X_002-mulu-10
+    span:
+    - body
+    - 7320
+    - 7320
+  label: 該通三際
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0142_X_002-mulu-11
+    span:
+    - body
+    - 7353
+    - 7353
+  label: 重重無盡
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0142_X_002-mulu-12
+    span:
+    - body
+    - 7423
+    - 7423
+  label: 五教
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0142_X_002-mulu-13
+    span:
+    - body
+    - 7447
+    - 7447
+  label: 五教名義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0142_X_002-mulu-14
+    span:
+    - body
+    - 7809
+    - 7809
+  label: 五教所詮
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0142_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 11678
+  label: 賢首五教儀卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0142_X_003-mulu-1
+    span:
+    - body
+    - 518
+    - 518
+  label: 五教斷證
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0142_X_003-mulu-2
+    span:
+    - body
+    - 2899
+    - 2899
+  label: 五教機益
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0142_X_003-mulu-3
+    span:
+    - body
+    - 7145
+    - 7145
+  label: 五教通妨
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0142_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 13120
+  label: 賢首五教儀卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0142_X_004-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 六宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0142_X_004-mulu-2
+    span:
+    - body
+    - 53
+    - 53
+  label: 法執
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0142_X_004-mulu-3
+    span:
+    - body
+    - 708
+    - 708
+  label: 後五宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0142_X_004-mulu-4
+    span:
+    - body
+    - 1162
+    - 1162
+  label: 揀性相濫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0142_X_004-mulu-5
+    span:
+    - body
+    - 1540
+    - 1540
+  label: 揀空性濫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0142_X_004-mulu-6
+    span:
+    - body
+    - 1890
+    - 1890
+  label: 揀空相性
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0142_X_004-mulu-7
+    span:
+    - body
+    - 2461
+    - 2461
+  label: 揀空性相
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0142_X_004-mulu-8
+    span:
+    - body
+    - 3187
+    - 3187
+  label: 揀性相空
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0142_X_004-mulu-9
+    span:
+    - body
+    - 4481
+    - 4481
+  label: 揀始頓濫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0142_X_004-mulu-10
+    span:
+    - body
+    - 5635
+    - 5635
+  label: 揀終同濫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0142_X_004-mulu-11
+    span:
+    - body
+    - 6274
+    - 6274
+  label: 揀同別濫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0142_X_004-mulu-12
+    span:
+    - body
+    - 8112
+    - 8112
+  label: 總申開合
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0142_X_004-mulu-13
+    span:
+    - body
+    - 8780
+    - 8780
+  label: 別通妨難
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0142_X_004-mulu-14
+    span:
+    - body
+    - 8998
+    - 8998
+  label: 三觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0142_X_004-mulu-15
+    span:
+    - body
+    - 9020
+    - 9020
+  label: 三觀方便
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0142_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 12726
+  label: 賢首五教儀卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0142_X_005-mulu-1
+    span:
+    - body
+    - 11272
+    - 11272
+  label: 三觀十對
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0142_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 13163
+  label: 賢首五教儀卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0142_X_006-mulu-1
+    span:
+    - body
+    - 1380
+    - 1380
+  label: 真空觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0142_X_006-mulu-2
+    span:
+    - body
+    - 1930
+    - 1930
+  label: 無礙觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0142_X_006-mulu-3
+    span:
+    - body
+    - 3242
+    - 3242
+  label: 周遍觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0142_X_006-mulu-4
+    span:
+    - body
+    - 10942
+    - 10942
+  label: 修觀益
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0142_X_006-mulu-5
+    span:
+    - body
+    - 11126
+    - 11126
+  label: 教觀依持
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0142_X_006-mulu-6
+    span:
+    - body
+    - 11254
+    - 11254
+  label: 結指
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0142_X_006-mulu-7
+    span:
+    - body
+    - 11623
+    - 11623
+  label: No. 1024-E 集刻五教儀緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0142_X_006-mulu-8
+    span:
+    - body
+    - 12708
+    - 12708
+  label: No. 1024-F 刻賢首五教儀䟦
+  type: mulu
+  level: 1
+hash: sha256:7ab1fd071b44e32e101511c8f49191848a6d2781ee91ad502f4bda29ae4868ed
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
