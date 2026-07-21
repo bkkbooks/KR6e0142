@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6e0142_000.yaml, hash: 'sha256:25bc199d2c8212db29b45981706a559c15b72d112e47bf00772634362cad27db'}
+  - {seq: 0, filename: KR6e0142_000.yaml, hash: 'sha256:ceb88c573597b10fa2d44d07ab4947cdbf4da2d72e9fc69b72dd3a53ce0f3d6d'}
   - {seq: 1, filename: KR6e0142_001.yaml, hash: 'sha256:9963a5f152bc0f9f028c7e45df2a669692b5871439d51fdddb4943b095ee84fc'}
   - {seq: 2, filename: KR6e0142_002.yaml, hash: 'sha256:ba18f888374ffaedcbbb37e23da6d33eed2cd65b9067a33487d22b5be5210b4c'}
   - {seq: 3, filename: KR6e0142_003.yaml, hash: 'sha256:73b34217e0bd6d1cd950cd1f54d0e28d18e3dcc79783f6a9d141a20fb57fc351'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 5, filename: KR6e0142_005.yaml, hash: 'sha256:3bfbcb693782c08a9f3e2caaf48b5e179b9119887179683c78fb3345ca1faab2'}
   - {seq: 6, filename: KR6e0142_006.yaml, hash: 'sha256:426609b0c3ffa6be041e74a5450e842ea790b8a3d97335c56c72c603a5dd2d92'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0142_000.markers.yaml, hash: 'sha256:6865fcb464675e05f79c16bc59e32d21b599772eecfa7fa9124afa8b270b8ccb'}
+  - {seq: 0, role: markers, filename: assets/KR6e0142_000.markers.yaml, hash: 'sha256:2be6384db8f869784c900e8ade7357aa864ef420e8335a18cf5cc429e21ce455'}
   - {seq: 1, role: markers, filename: assets/KR6e0142_001.markers.yaml, hash: 'sha256:620da2f8bcfc348164366cadddd8ad951587e5eaa8324f922e823288a5e37f17'}
   - {seq: 2, role: markers, filename: assets/KR6e0142_002.markers.yaml, hash: 'sha256:18117c0309d62ef0f362a79cbe0a7e3e1569e118fd447619451f77270ee77fa5'}
   - {seq: 3, role: markers, filename: assets/KR6e0142_003.markers.yaml, hash: 'sha256:cd099eded5f6c84bddf02285086b508171f8e39dbaa85666f02a9f76ef882544'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0142_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1024-A 引
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0142_X_000-mulu-2
     span:
-    - front
+    - body
     - 157
     - 157
   label: No. 1024-B 賢首五教儀序
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0142_X_000-mulu-3
     span:
-    - front
+    - body
     - 1065
     - 1065
   label: No. 1024-C 序
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0142_X_000-mulu-4
     span:
-    - front
+    - body
     - 2063
     - 2063
   label: No. 1024-D
@@ -81,7 +81,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0142_X_000-mulu-5
     span:
-    - front
+    - body
     - 2063
     - 2063
   label: 賢首時儀教觀圖
@@ -91,7 +91,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0142_X_000-mulu-6
     span:
-    - front
+    - body
     - 2070
     - 2070
   label: 法界觀境普融無盡圖
@@ -101,7 +101,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0142_X_000-mulu-7
     span:
-    - front
+    - body
     - 2196
     - 2196
   label: 賢首五教儀條箇
@@ -617,7 +617,7 @@ table_of_contents:
   label: No. 1024-F 刻賢首五教儀䟦
   type: mulu
   level: 1
-hash: sha256:b65ce89f56be20773b455541f9904dd0dd6ea08080d4791b165e8616cb85a099
+hash: sha256:7f012133727cb80ccb3c17981a5d553068439cf4d7add801caa4ff96f7fe29fd
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
